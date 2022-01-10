@@ -1,0 +1,10 @@
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\bin\Debug\AppDijkstraAlgoritamKenan.exe.config
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\bin\Debug\AppDijkstraAlgoritamKenan.exe
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\bin\Debug\AppDijkstraAlgoritamKenan.pdb
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.csprojAssemblyReference.cache
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.Form1.resources
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.Properties.Resources.resources
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.csproj.GenerateResource.cache
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.csproj.CoreCompileInputs.cache
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.exe
+C:\Users\kenan\source\repos\AppDijkstraAlgoritamKenan\AppDijkstraAlgoritamKenan\obj\Debug\AppDijkstraAlgoritamKenan.pdb
